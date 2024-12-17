@@ -27,6 +27,9 @@ GPA: 3.45/4.00
 - Created an autonomous surveillance robot with facial recognition and GPS alert capabilities.
 - Designed systems for real-time data sharing and operator control via mobile applications.
 
+**Automobile Data Explorer** [GitHub_Link](https://github.com/Mallika-434/exam1):
+- The Automobile Data Explorer is an interactive Streamlit application that allows users to explore, analyze, and visualize automobile data through various features such as statistical analysis, filtering, and interactive visualizations.
+- It helps users gain valuable insights into automobile data quickly and efficiently.
 
 ## EXTRACURRICULAR ACTIVITIES
 
