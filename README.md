@@ -22,8 +22,8 @@ GPA: 3.45/4.00
 **Polygenic Disease Prediction with Python:**  
 - Developed machine learning models for predicting diseases using structured and unstructured data.
 - Enhanced analytical accuracy by implementing advanced classification algorithms.
-
-**Mini Seeker Robot:**  
+ 
+**Mini Seeker Robot:** (https://github.com/Mallika-434/Mini_seeker_robot) 
 - Created an autonomous surveillance robot with facial recognition and GPS alert capabilities.
 - Designed systems for real-time data sharing and operator control via mobile applications.
 
