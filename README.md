@@ -31,7 +31,7 @@ GPA: 3.45/4.00
 - The Automobile Data Explorer is an interactive Streamlit application that allows users to explore, analyze, and visualize automobile data through various features such as statistical analysis, filtering, and interactive visualizations.
 - It helps users gain valuable insights into automobile data quickly and efficiently.
 
-**Steel Clients** [GitHub_Link](https://github.com/Mallika-434/exam1):
+**Steel Clients** [GitHub_Link](https://github.com/Mallika-434/Steel-Clients):
 - Analyzed client interactions in an online procurement system using Python, developing predictive models to optimize conversions with 87.29% accuracy.
 - Built and fine-tuned logistic regression, random forest, and gradient boosting models, achieving an F1-score of 86.24% for classifying customer engagement levels.
   
